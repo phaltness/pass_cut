@@ -1,0 +1,4 @@
+# Build dir
+Debug/**
+# Obj files anywhere
+*.[oa]
